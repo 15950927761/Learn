@@ -1,1 +1,1 @@
-# -Angular, vue,react,node,javascript php
+# Angular, vue,react,node,javascript php
